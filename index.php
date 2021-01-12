@@ -20,7 +20,7 @@ $todos = \App\TodoFactory::init()->getAll();
                                 <div><?= $todo['name'] ?></div>
                                 <div style="margin-top: 3px">
                                     <a href="markascompleted.php?id=<?= $todo['id'] ?>">mark as completed</a> &middot;
-                                    <a style="color: red" href="delete.php?id=<?= $todo['id'] ?>">delete</a> &middot;
+                                    <a style="color: red" href="delete.php?id=<?= $todo['id'] ?>">delete</a>
                                 </div>
                             </div>
                         <?php endforeach; ?>
