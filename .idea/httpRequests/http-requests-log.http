@@ -1,0 +1,76 @@
+GET http://localhost:8000
+Accept: text/html
+
+<> 2021-01-12T113028.200.html
+
+###
+
+GET http://localhost:8000
+Accept: text/html
+
+<> 2021-01-12T112802.200.html
+
+###
+
+GET http://localhost:8000
+Accept: application/json
+
+<> 2021-01-12T112505.200.html
+
+###
+
+GET http://localhost:8000
+Accept: application/json
+
+###
+
+GET http://localhost:80000
+Accept: application/json
+
+###
+
+GET http://localhost:80000
+Accept: application/json
+
+###
+
+GET http://localhost:80000
+Accept: application/json
+
+###
+
+GET http://localhost:80000
+Accept: application/json
+
+###
+
+GET http://localhost:80000
+Accept: application/json
+
+###
+
+GET http://localhost:80000
+Accept: application/json
+
+###
+
+GET http://localhost:80000
+Accept: application/json
+
+###
+
+GET http://localhost:8000
+Accept: application/json
+
+###
+
+GET http://localhost:8000
+Accept: application/json
+
+###
+
+GET http://localhost:8000
+Accept: application/json
+
+###
+

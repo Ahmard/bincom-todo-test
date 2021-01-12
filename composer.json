@@ -1,0 +1,20 @@
+{
+  "name": "ahmard/bincom-todo",
+  "description": "Bincom dev PHP todo",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ahmard",
+      "email": "Ahmard06@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-pdo": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
