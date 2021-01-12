@@ -11,5 +11,9 @@ require ROOT_DIR . '/autoloader.php';
 </head>
 <body>
 <div class="header">
-    <div><?=$config['app']['name']?></div>
+    <div>
+        <a href="/">
+            <?=$config['app']['name']?>
+        </a>
+    </div>
 </div>
